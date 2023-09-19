@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/groups/14280466/](https://www.linkedin.com/groups/14280466/)
+- 📝 
 
 - 💬 Ask me about **Java, Python, JavaScript**
 
