@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, Python, JavaScript**
 
-- 📫 How to reach me **sajeed@skillkoder.com**
+- 📫 How to reach me **sajeed@digital-edify.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
