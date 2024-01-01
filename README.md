@@ -1,5 +1,5 @@
 [![MasterHead](https://cdn.dribbble.com/users/3484830/screenshots/16787618/media/b134e73ef667b926c76d8ce3f962dba2.gif)](https://skillkoder.com)
-<h1 align="center">Hi 👋, I'm Sajeed Saif founder of Skill Koder</h1>
+<h1 align="center">Hi 👋, Welcome to Skill Koder Software Trainings</h1>
 <h3 align="center">A passionate fullstack devpos engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3484830/screenshots/16787618/media/b134e73ef667b926c76d8ce3f962dba2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ss224&label=Profile%20views&color=0e75b6&style=flat" alt="ss224" /> </p>
